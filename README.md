@@ -1,2 +1,2 @@
 # translateapp
-Created with CodeSandbox
+Simple translating app, using React and Google Translate API
